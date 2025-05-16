@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Anagrams {
 
 	public static void main(String[] args) {
+		//System.out.println("45");
 		String s1 = "sILENT";
 		String s2 = "Listen";
 
