@@ -1,11 +1,10 @@
 package com.logical;
 
-public class TestCart1 {
+public class TestCart2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("cart1");
-System.out.println("car11");
+System.out.println("cart2");
 	}
 
 }
